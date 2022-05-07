@@ -1,4 +1,4 @@
-# Reebok(Clone)
+# Internshala(Clone)
 Project: make a clone of https://internshala.com/ site
 
 *Internshala is a website that provides internships and courses for the students..*
